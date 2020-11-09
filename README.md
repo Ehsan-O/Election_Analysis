@@ -2,11 +2,11 @@
 
 
 ## **Overview of Project**
-in this project we are helping an employee of the Colorado bord of election to perform an election audit 
+in this project we are helping an employee of the Colorado board of elections to perform an election audit 
 
 
 ### **Purpose**
-We have been provided a tabular data file ([election_results.csv](Resources/election_results.csv)), containing the result of the election and our task is to go through this file, perform the analysis and report the following items in a text file:  
+We have been provided with a tabular data file ([election_results.csv](Resources/election_results.csv)), containing the result of the election and our task is to go through this file, perform the analysis and report the following items in a text file:  
 
 - The total number of the votes 
 
